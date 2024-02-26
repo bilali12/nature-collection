@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Nature Emoi</string>
+
+    <!-- Page d'acceuil -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_plant_section">Dernières plantes</string>
+
+    <!-- Plante personnaliser -->
+    <string name="item_plant_name">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+
+    <!-- Page de collections -->
+    <string name="collection_page_title">Ma collection</string>
+
+    <!-- Page d'ajout de plante-->
+    <string name="add_plant_page_title">Ajouter une plante</string>
+    <string name="add_plant_page_upload_img">Charger une image</string>
+    <string name="add_plant_page_name_input">@string/item_plant_name</string>
+    <string name="add_plant_page_description_input">@string/item_plant_description</string>
+    <string-array name="add_plant_page_grow_spinner_input">
+        <item>Croissance : Lente</item>
+        <item>Croissance : Moyenne</item>
+        <item>Croissance : Rapide</item>
+    </string-array>
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Consommation : Faible</item>
+        <item>Consommation : Moyenne</item>
+        <item>Consommation : Elevee</item>
+    </string-array>
+    <string name="add_plant_confirm_btn">Confirmer</string>
+
+    <!-- Fenetre popup pour les details-->
+    <string name="popup_plan_name">Nom de la plante</string>
+    <string name="popup_plan_description_tille">Description</string>
+    <string name="popup_plan_description_subTille">Petite description</string>
+    <string name="popup_plan_grow_title">Croissance</string>
+    <string name="popup_plan_grow_subTitle">Lente</string>
+    <string name="popup_plan_water_title">Consommation Eau</string>
+    <string name="popup_plan_water_subTitle">Basse</string>
+
+</resources>
